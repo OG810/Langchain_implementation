@@ -1,0 +1,19 @@
+create a new folder
+
+open it in vs code
+
+create a new venv
+
+python -m venv venv
+
+activate venv
+
+venv\Scripts\Activate
+
+create the requirements.txt
+
+install packages from requirements.txt
+
+pip install -r requirements.txt
+
+verify LangChain installation
